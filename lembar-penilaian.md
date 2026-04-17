@@ -1,11 +1,11 @@
 # Lembar Penilaian Praktikum Hardware Lab STAS-RG
 
 ## Informasi Umum
-- **Nama Kegiatan**: Praktikum Pengenalan Soldering dan ESP32S3
-- **Lokasi**: Lab STAS-RG
-- **Waktu**: _________________________
-- **Jumlah Kelompok**: 14 kelompok (2 orang per kelompok)
-- **Penilai**: _________________________
+- **Nama Kelompok**: Praktikum Pengenalan Soldering dan ESP32S3
+- **Anggota 1**: 
+- **Anggota 2**: 
+
+---
 
 ## Petunjuk Penilaian
 1. Beri tanda ✓ pada kolom "Penilaian" jika kriteria terpenuhi
